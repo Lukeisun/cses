@@ -1,0 +1,4 @@
+*.in
+*.out
+*.o
+weird_algorithm
